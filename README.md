@@ -1,2 +1,1 @@
-# Orosmolnet
 # Simpagrimpa Inc.
