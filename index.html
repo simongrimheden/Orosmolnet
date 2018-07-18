@@ -1,93 +1,43 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Grimheden Holdings Inc. / Asset management</title>
-	<meta name="author" content="Grimheden Holdings Inc.">
-	<meta name="description" content="World leading asset management">
-	<meta name="keywords" content="Cash, money, income, investment">
-	<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="robots" content="index,follow">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="/assets/css/style.css">
+	<title>{{ site.author }} / {{ site.tagline }}</title>
+	<meta name="author" content="{{ site.author }}">
+	<meta name="description" content="{{ site.description }}">
+	<meta name="keywords" content="{{ site.keywords }}">
+	{% include head.html %}
 </head>
 <body>
-	<header class="header">
-	<div class="container">
-		<h1 class="logo">
-			<a title="Grimheden Holdings Inc." href="/">Grimheden Holdings Inc.</a>
-		</h1>
-	</div>
-</header>
-
+	{% include header.html %}
 	<main class="content">
 		<section class="intro">
 			<div class="container">
-				<h5>World leading asset management</h5>
+				<h5>{{ site.description }}</h5>
 			</div>
 		</section>
 		<section class="projects">
 			<div class="container">
 				<h2>Top assets</h2>
 				<ul class="projects-list">
-					
+					{% for item in site.categories.projects reversed %}
 						<li>
-							<a href="/stocks/">
+							<a href="{{ <!-- item.url --> | prepend: site.baseurl }}">
 								<div class="img-wrapper">
-									<img src="/assets/images/projects/stocks/logo.png" alt="Stock Portfolio" />
+									<img src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
 								</div>
-								<span class="h2">Investment</span>
-								<h3>Stock Portfolio</h3>
+								<span class="h2">{{ item.project.type }}</span>
+								<h3>{{ item.project.title }}</h3>
 							</a>
 						</li>
-					
-						<li>
-							<a href="/realestate/">
-								<div class="img-wrapper">
-									<img src="/assets/images/projects/realestate/logo.png" alt="Real Estate" />
-								</div>
-								<span class="h2">Investment</span>
-								<h3>Real Estate</h3>
-							</a>
-						</li>
-					
-						<li>
-							<a href="/bitcoin/">
-								<div class="img-wrapper">
-									<img src="/assets/images/projects/bitcoin/logo.png" alt="Bitcoin" />
-								</div>
-								<span class="h2">Investment</span>
-								<h3>Bitcoin</h3>
-							</a>
-						</li>
-					
+					{% endfor %}
 				</ul>
 			</div>
 		</section>
 	</main>
-	<footer class="footer">
-	<div class="container">
-		<section class="contact">
-			<h2>Contact</h2>
-			<a title="inquiries@grimhedenholdings.com" href="mailto:inquiries@grimhedenholdings.com">inquiries@grimhedenholdings.com</a>
-		</section>
-		<section class="follow">
-			<h2>Follow</h2>
-			<ul>
-				<li><a title="Twitter" href="https://www.linkedin.com/" target="_blank">Linkedin</a></li>
-				<li><a title="Twitter" href="https://twitter.com/" target="_blank">Twitter</a></li>
-				<li><a title="Github" href="https://github.com/" target="_blank">Github</a></li>
-			</ul>
-		</section>
-	</div>
-</footer>
-	<script src="/assets/scripts/vendor/scrollreveal.min.js"></script>
-	<script src="/assets/scripts/home.js"></script>
+	{% include footer.html %}
+	<script src="{{ "/assets/scripts/vendor/scrollreveal.min.js" | prepend: site.baseurl }}"></script>
+	<script src="{{ "/assets/scripts/home.js" | prepend: site.baseurl }}"></script>
 </body>
 </html>
