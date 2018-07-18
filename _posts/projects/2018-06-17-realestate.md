@@ -9,7 +9,7 @@ meta:
 project:
   title: "Real Estate"
   type: "Investment"
-  url: "https://github.com/arnolds/pineapple"
+  url: ""
   logo: "/assets/images/projects/realestate/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
