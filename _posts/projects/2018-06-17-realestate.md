@@ -4,10 +4,10 @@ permalink: /:title/
 category: projects
 
 meta:
-  keywords: "Real estate, value"
+  keywords: "Matched Betting, value"
 
 project:
-  title: "Real Estate"
+  title: "Matched Betting"
   type: "Investment"
   url: ""
   logo: "/assets/images/projects/realestate/logo.png"
