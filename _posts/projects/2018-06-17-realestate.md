@@ -7,10 +7,10 @@ meta:
   keywords: "Matched Betting, value"
 
 project:
-  title: "Matched Betting"
+  title: "Poker"
   type: "Investment"
   url: ""
-  logo: "/assets/images/projects/realestate/logo.png"
+  logo: "/assets/images/projects/realestate/cards logo.svg"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
