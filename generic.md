@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Our Philosophy
+description: Reinventing financial theory
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
