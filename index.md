@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Redefining end-to-end capital assets'
+landing-title: 'Redefining Capital Holdings'
 description: null
 image: null
 author: null
