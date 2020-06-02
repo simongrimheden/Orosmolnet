@@ -2,7 +2,7 @@
 title: Grimheden Holdings
 subtitle: World leading asset management
 email: inquiries@grimhedenholdings.com
-description: Assertive investing: Resilience amid uncertainty
+description: "Assertive investing: Resilience amid uncertainty"
 baseurl: https://grimhedenholdings.com # the subpath of your site, e.g. /blog
 url: https://grimhedenholdings.com # the base hostname & protocol for your site
 author: Simon Grimheden
@@ -27,7 +27,7 @@ instagram_url: https://instagram.com
 linkedin_url:
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 
 # build settings
 markdown: kramdown
