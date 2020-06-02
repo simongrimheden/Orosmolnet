@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Redefining end-to-end capital assets'
 description: null
 image: null
 author: null

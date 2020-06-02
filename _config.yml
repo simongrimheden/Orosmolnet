@@ -3,7 +3,7 @@ title: Grimheden Holdings
 subtitle: World leading asset management
 email: inquiries@grimhedenholdings.com
 description: "Assertive investing: Resilience amid uncertainty"
-baseurl: https://grimhedenholdings.com # the subpath of your site, e.g. /blog
+baseurl:  # the subpath of your site, e.g. /blog
 url: https://grimhedenholdings.com # the base hostname & protocol for your site
 author: Simon Grimheden
 street_address: 1234 Somewhere Road
