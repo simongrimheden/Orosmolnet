@@ -2,7 +2,7 @@
 layout: post
 title: Our Philosophy
 description: Reinventing financial theory
-image: assets/images/pic11.jpg
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
