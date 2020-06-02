@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Redefining Capital Holdings'
+landing-title: 'Redefining Capital Investment'
 description: null
 image: null
 author: null
