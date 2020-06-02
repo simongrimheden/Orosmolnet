@@ -6,10 +6,10 @@ description: "Assertive investing: Resilience amid uncertainty"
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://grimhedenholdings.com # the base hostname & protocol for your site
 author: Simon Grimheden
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 200 West St
+city: New York
+state: NY
+zip_code: 10282
 country: United States of America
 phone: (716) 555-5555
 
