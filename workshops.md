@@ -2,7 +2,7 @@
 title: Workshops
 layout: landing
 description: ''
-image: assets/images/pic11.jpg
+image: assets/images/pic09.jpg
 nav-menu: true
 ---
 

@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Internships
-nav-menu: true
+title: Alpha Fund
+nav-menu: false
+image: assets/images/pic04.jpg
+show_tile: false
 ---
 
 <!-- Main -->
