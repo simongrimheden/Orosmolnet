@@ -48,7 +48,7 @@ nav-menu: true
 					<h3>Joel Järlesäter</h3>
 					<h4>CFO</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Joel Järlesäter is Chief Financial Officer of Grimheden Holdings Inc. He serves on the Management Committee, Firmwide Risk Committee, Firmwide Asset Liability Committee and Firmwide Investment Policy Committee. He is also responsible for our aggressive accounting policy.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -82,7 +82,7 @@ nav-menu: true
 					<h3>Tora Brorsson</h3>
 					<h4>Junior Intern</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Tora Brorsson is in charge of key refreshments as well as the office mood manager.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
