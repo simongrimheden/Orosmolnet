@@ -12,27 +12,12 @@ image: assets/images/pic04.jpg
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Internships</h1>
+			<h1>Elements</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Grimheden Holdings Exceptional Talet Program</h2>
-<p><em>Make things possible this summer at Goldman Sachs</em>
-
-Our Exceptional Talent Program is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of our firm.
-
-As a participant, you will:</p>
-<li>Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firm</li>
-<li>Receive division-specific training designed to help you succeed</li>
-<li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li>
-<p>Date: Summer 2021</p>
-<p>Location: Lund</p>
-<ul class="actions fit small">
-	<li><a href="#" class="button special fit small">Apply to this program</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
-</ul>
-
-Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Sample Content</h2>
+<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
