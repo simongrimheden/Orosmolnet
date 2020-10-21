@@ -112,7 +112,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>GH Alpha Fund</h2>
+			<h2>Grimheden Holdings Alpha Fund</h2>
 		</header>
 		<p>Grimheden Holdings is trusted to manage more money than any other investment firm in the world, and our business is investing on behalf of our clients, from large institutions to the parents and grandparents, the doctors and teachers who entrust their savings to us.</p>
 		<ul class="actions">
