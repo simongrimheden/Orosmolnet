@@ -65,7 +65,7 @@ nav-menu: true
 					<h3>Marcus Wuttke</h3>
 					<h4>Senior Portfolio Manager</h4>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>After the acquisition of Webbdatabas AB Marcus was offered the position of Senior Portfolio Manager, primarily overseeing the Alpha fund.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
