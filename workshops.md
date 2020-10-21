@@ -3,7 +3,8 @@ title: Workshops
 layout: landing
 description: ''
 image: assets/images/pic09.jpg
-nav-menu: true
+nav-menu: false
+show_tile: false
 ---
 
 <!-- Main -->
