@@ -17,11 +17,11 @@ image: assets/images/pic04.jpg
 
 <!-- Content -->
 <h2 id="content">Grimheden Holdings Exceptional Talet Program</h2>
-<p><em>Make things possible this summer at Goldman Sachs</em>
+<p><em>Make things possible this summer at Goldman Sachs</em></p>
 
-Our Exceptional Talent Program is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of our firm.
+<p>Our Exceptional Talent Program is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of our firm.</p>
 
-As a participant, you will:</p>
+<p>As a participant, you will:</p>
 <li>Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firm</li>
 <li>Receive division-specific training designed to help you succeed</li>
 <li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li>
