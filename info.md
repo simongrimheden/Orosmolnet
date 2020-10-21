@@ -91,7 +91,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/fabian.jpeg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/fabian.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
