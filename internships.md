@@ -25,11 +25,9 @@ As a participant, you will:</p>
 <li>Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firm</li>
 <li>Receive division-specific training designed to help you succeed</li>
 <li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li>
-<p>Date: Summer 2021</p>
-<p>Location: Lund</p>
+<p><br>Date: Summer 2021<br>Location: Lund</p>
 <ul class="actions fit small">
 	<li><a href="#" class="button special fit small">Apply to this program</a></li>
-	<li><a href="#" class="button fit small">Fit + Small</a></li>
 </ul>
 
 Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
