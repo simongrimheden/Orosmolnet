@@ -82,7 +82,7 @@ nav-menu: true
 					<h3>Tora Brorsson</h3>
 					<h4>Junior Intern</h4>
 				</header>
-				<p>Tora Brorsson is in charge of key refreshments as well as the office mood manager.</p>
+				<p>Tora Brorsson is in charge of key refreshments.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
