@@ -21,10 +21,10 @@ image: assets/images/pic04.jpg
 
 <p>Our Exceptional Talent Program is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of our firm.</p>
 
-<p>As a participant, you will:</p>
+<p>As a participant, you will:
 <li>Attend orientation where you’ll learn about our culture, as well as the benefits and responsibilities of being a member of the firm</li>
 <li>Receive division-specific training designed to help you succeed</li>
-<li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li>
+<li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li></p>
 <p><br>Date: Summer 2021<br>Location: Lund</p>
 <ul class="actions fit small">
 	<li><a href="#" class="button special fit small">Apply to this program</a></li>
