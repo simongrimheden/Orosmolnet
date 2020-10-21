@@ -16,7 +16,7 @@ image: assets/images/pic04.jpg
 		</header>
 
 <!-- Content -->
-<h2 id="content">Grimheden Holdings Exceptional Talet Program</h2>
+<h2 id="content">Grimheden Holdings Exceptional Talent Program</h2>
 <p><em>Make things possible this summer at Grimheden Holdings</em></p>
 
 <p>Our Exceptional Talent Program is an eight to ten week summer internship for undergraduate students. You will be fully immersed in the day-to-day activities of our firm.</p>
