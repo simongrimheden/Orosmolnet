@@ -89,6 +89,23 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/fabian.jpeg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Fabian Grip Rösth</h3>
+					<h4>Assistant to the Junior Intern</h4>
+				</header>
+				<p>Fabian Grip Rösth is our newest recruitment through the Grimheden Holdings Exceptional Talet program. He is in charge of providing our junior intern with the analytics required to excel in the role.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
 
 <!-- Three -->
