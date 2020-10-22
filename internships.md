@@ -27,7 +27,7 @@ image: assets/images/pic04.jpg
 <li>Have the opportunity to work on real responsibilities alongside fellow interns and our people</li></p>
 <p><br>Date: Summer 2021<br>Location: Lund</p>
 <ul class="actions fit small">
-	<li><a href="mailto: {{site.email}}?subject = Grimheden Holdings Exceptional Talent Program" class="button special fit small">Apply to this program</a></li>
+	<li><a href="mailto: {{site.email}}?subject=Grimheden%20Holdings%20Exceptional%20Talent%20Program" class="button special fit small">Apply to this program</a></li>
 </ul>
 
 </div>
