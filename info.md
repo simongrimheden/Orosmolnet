@@ -74,6 +74,24 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="" class="image">
+			<img src="{% link assets/images/gustav.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Gustav Sjöblom</h3>
+					<h4>Chief Compliance Officer</h4>
+				</header>
+				<p>Gustav Sjöblom is primarily responsible for overseeing and managing regulatory compliance issues within the organization.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+
+	</section>
+	<section>
+		<a href="" class="image">
 			<img src="{% link assets/images/tora.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -105,6 +123,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
+
 	</section>
 </section>
 
