@@ -80,9 +80,9 @@ nav-menu: true
 			<div class="inner">
 				<header class="major">
 					<h3>Gustav Sjöblom</h3>
-					<h4>Chief Compliance Officer</h4>
+					<h4>CCO</h4>
 				</header>
-				<p>Gustav Sjöblom is primarily responsible for overseeing and managing regulatory compliance issues within the organization.</p>
+				<p>Gustav Sjöblom is Chief Compliance Officer of Grimheden Holdings, primarily responsible for overseeing and managing regulatory compliance issues within the organization.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
