@@ -101,7 +101,7 @@ nav-menu: true
 					<h3>Arvid Berntsson</h3>
 					<h4>CDO</h4>
 				</header>
-				<p>Arvid Berntsson is Chief Design Officer of Grimheden Holdings. His responsibilities include visual oversight of the funds graphical profile as well as working as creative lead during design of the firms leveraged buyout strategies.
+				<p>Arvid Berntsson is Chief Design Officer of Grimheden Holdings. His responsibilities include visual oversight of the fund's graphical profile as well as working as creative lead during design of the firm's leveraged buyout strategies.
 
 				</p>
 				<ul class="actions">
