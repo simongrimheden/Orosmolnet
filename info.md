@@ -109,8 +109,8 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-
-
+	</section>
+	
 	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/tora.jpg %}" alt="" data-position="top center" />
