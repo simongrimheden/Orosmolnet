@@ -72,6 +72,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+
 	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/gustav.jpg %}" alt="" data-position="25% 25%" />
@@ -88,8 +89,28 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-
 	</section>
+
+	<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/arvid.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Arvid Berntsson</h3>
+					<h4>CDO</h4>
+				</header>
+				<p>Arvid Berntsson is Chief Design Officer of Grimheden Holdings.
+
+				</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+
+
 	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/tora.jpg %}" alt="" data-position="top center" />
