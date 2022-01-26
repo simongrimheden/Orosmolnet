@@ -75,6 +75,24 @@ nav-menu: true
 
 	<section>
 		<a href="" class="image">
+			<img src="{% link assets/images/tora.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Tora Brorsson</h3>
+					<h4>COO</h4>
+				</header>
+				<p>Tora Brorsson is Chief Operations Officer of Grimheden Holdings Inc. She is responsible for overseeing the day-to-day administrative and operational functions of the company.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<a href="" class="image">
 			<img src="{% link assets/images/gustav.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -111,23 +129,7 @@ nav-menu: true
 		</div>
 	</section>
 
-	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/tora.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Tora Brorsson</h3>
-					<h4>Junior Intern</h4>
-				</header>
-				<p>Tora Brorsson is in charge of key refreshments.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+
 	<section>
 		<a href="" class="image">
 			<img src="{% link assets/images/fabian.jpg %}" alt="" data-position="25% 25%" />
