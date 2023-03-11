@@ -147,6 +147,23 @@ nav-menu: true
 			</div>
 		</div>
 
+		<section>
+		<a href="" class="image">
+			<img src="{% link assets/images/fabian.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Oliver Hedin</h3>
+					<h4></h4>
+				</header>
+				<p>Oliver Hedin leads Global Trading, Securities Lending, Liquidity and Financing in his role as head of BGM and has joint oversight of the firm’s Index Fixed Income and ETF Markets and Index Investments businesses. BGM is focused on advancing our investment processes and platform architecture in these areas and on ensuring we engage with other market participants in a collaborative, strategic way.</p>
+				<ul class="actions">
+					<li><a href="generic.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+
 	</section>
 </section>
 
