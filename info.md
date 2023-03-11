@@ -146,6 +146,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
+		</section>
 
 		<section>
 		<a href="" class="image">
