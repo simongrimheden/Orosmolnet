@@ -150,7 +150,7 @@ nav-menu: true
 
 		<section>
 		<a href="" class="image">
-			<img src="{% link assets/images/heddan.png %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/Heddan.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
