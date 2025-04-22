@@ -39,16 +39,14 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="" class="image">
-			<img src="{% link assets/images/joel2.jpg %}" alt="" data-position="top center" />
-		</a>
+	
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Joel Järlesäter</h3>
+					<h3>Redacted</h3>
 					<h4>CFO</h4>
 				</header>
-				<p>Joel Järlesäter is Chief Financial Officer of Grimheden Holdings Inc. He serves on the Management Committee, Firmwide Risk Committee, Firmwide Asset Liability Committee and Firmwide Investment Policy Committee. He is also responsible for our aggressive accounting policy.</p>
+				<p>Someone is Chief Financial Officer of Grimheden Holdings Inc. He serves on the Management Committee, Firmwide Risk Committee, Firmwide Asset Liability Committee and Firmwide Investment Policy Committee. He is also responsible for our aggressive accounting policy.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
